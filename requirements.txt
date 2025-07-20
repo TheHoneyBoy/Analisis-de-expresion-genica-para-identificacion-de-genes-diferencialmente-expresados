@@ -1,0 +1,13 @@
+# Core libraries
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+
+# Optional for GPU acceleration
+cupy-cuda12x  # For NVIDIA GPUs
+pyopencl      # For OpenCL-compatible GPUs (NVIDIA/AMD)

@@ -1,0 +1,3 @@
+Abrir en consola esta carpeta e ingresar:
+
+streamlit run main.py
